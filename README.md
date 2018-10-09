@@ -1,24 +1,7 @@
-# README
+# Cooper Test API
+#### Robin Börjsson
+#### 2018-10-09
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app serves as the backend to an Ionic app that serves users with cooper test metrics. The backend contains:
+- A user model for registration and login to access the apps functionality
+- A Performance Data model which contains the cooper test metrics for the users.
