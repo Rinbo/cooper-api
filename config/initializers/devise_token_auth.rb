@@ -1,5 +1,0 @@
-# frozen_string_literal: true
-
-DeviseTokenAuth.setup do |config|
-  config.secret_key = '62b8dca22a6d7db414a72d3f14dc78644911cacac6282488f5132da7259cbdda84bf552fd860fae480c4d18535b6eb186e4236219213937c02f0154cf2f1878e'
-end
